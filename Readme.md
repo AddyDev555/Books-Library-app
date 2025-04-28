@@ -28,9 +28,7 @@ This application allows users to easily manage books, track borrowings, and main
 
 | Home Page | Dashboard | Books Feedback |
 | :---: | :---: | :---: |
-| ![Home](Assets/Home.png) | ![Add Book](Assets/Dashboard.png) | ![Issue Book](Assets/Feedback.png) |
-
-> 📷 *Make sure to add your screenshots inside an `assets/` folder. Update the above paths if needed.*
+| ![Home](ss/Home.png) | ![Add Book](ss/Dashboard.png) | ![Issue Book](ss/Feedback.png) |
 
 ---
 
