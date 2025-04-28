@@ -37,5 +37,5 @@ This application allows users to easily manage books, track borrowings, and main
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/library-management-desktop-app.git
+git clone https://github.com/AddyDev555/Books-Library-app
 python main.py
